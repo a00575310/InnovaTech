@@ -1,8 +1,10 @@
-Victor Reynoso A00575310: Product Owner 
-Fabian Castellanos A00575005: Líder técnico
-Omar Salas A00575096: Desarrollador UI
-Daniel Martínez A00575291: Desarrollador de datos 
-Mayumi Barrea A00575299: Analista de pruebas 
+ODS 9: Industria, innovación e infraestructura  
+
+Victor Reynoso A00575310: Product Owner  
+Fabian Castellanos A00575005: Líder técnico  
+Omar Salas A00575096: Desarrollador UI  
+Daniel Martínez A00575291: Desarrollador de datos   
+Mayumi Barrea A00575299: Analista de pruebas  
 
 
 
